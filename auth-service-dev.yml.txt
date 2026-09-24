@@ -1,0 +1,4 @@
+{
+"name":"auth-service",
+"profiles":["dev"]
+}
